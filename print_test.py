@@ -1,0 +1,8 @@
+print("===================================")
+print("   Présentation de KISWENDSIDA")
+print("===================================")
+print("Nom : Ouedraogo Kiswendsida Brice Lionel")
+print("Âge : 16 ans")
+print("Objectif : Apprendre le code et devenir ingénieur en IA")
+print("J'aime : Copilot et l'intelligence artificielle")
+print("===================================")
