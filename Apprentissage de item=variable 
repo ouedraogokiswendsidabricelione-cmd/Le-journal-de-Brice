@@ -1,0 +1,2 @@
+item = "Burkina Faso"
+print(item)
