@@ -1,0 +1,11 @@
+{
+  "name": "ZoodoGreen",
+  "short_name": "ZoodoGreen",
+  "description": "Apprendre, trier et agir pour un Burkina plus vert.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5fbf7",
+  "theme_color": "#087f5b",
+  "lang": "fr",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
